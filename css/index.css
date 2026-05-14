@@ -1,0 +1,9 @@
+* {
+    box-sizing: border-box;
+}
+
+.a {
+    background-color: aqua;
+    border: solid 2px black;
+    height: 30vh;
+}
