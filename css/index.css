@@ -3,7 +3,7 @@
 }
 
 .a {
-    background-color: aqua;
-    border: solid 2px black;
+    background-color: rgb(255, 0, 191);
+    border: solid 2px rgb(0, 0, 0);
     height: 30vh;
 }
